@@ -1,5 +1,10 @@
 # MHW
 Matlab code for figures of the paper (More code will be upload.)
 
-Figure1-4 and there corresponding data
-Draw_Figure1-4 and file color should be download before you run the demo.
+code figure1-figure4 are the code used for corresponding figures in paper 
+
+These files should be donwload before you run 'figure1' - 'figure4'
+>Draw_Figure1-4
+>data_figure1-4
+>color 
+
