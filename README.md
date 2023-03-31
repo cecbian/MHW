@@ -1,5 +1,5 @@
 # MHW
-Matlab code for figures of the paper (More code will be upload.)
+Matlab code for figures in the paper 
 
 code figure1-figure4 are the code used for corresponding figures in paper 
 
