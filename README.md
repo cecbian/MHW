@@ -1,10 +1,10 @@
 # MHW
-Matlab code for figures in the paper 
+Matlab code and data in the paper 
 
-code figure1-figure4 are the code used for corresponding figures in paper 
+Main Code: Code used in Main paper body
+Main Data: Corresponding data with Main Code
+Figure: Corresponding figure with Main Code
+SupplementaryData: Data used in supplementary figures
 
-These files should be donwload before you run 'figure1' - 'figure4'
->Draw_Figure1-4
->data_figure1-4
->color 
+
 
